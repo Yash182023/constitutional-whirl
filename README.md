@@ -6,7 +6,7 @@ This repository contains the code and experimental results for a research study 
 Unconstrained IRL algorithms applied to heterogeneous population data often learn **inverted reward functions** ($R_{sick} > R_{healthy}$) to minimize trajectory error. In our experiments on proxy data, this "unethical" reward structure occurred in **40.9%** of cases.
 
 ## The Solution
-We implemented a **Constitutional WHIRL** framework that enforces monotonicity constraints ($R_{healthy} \ge R_{sick}$) during the policy gradient update loop. We compared three methods:
+This project implements a **Constitutional WHIRL** framework that enforces monotonicity constraints ($R_{healthy} \ge R_{sick}$) during the policy gradient update loop. We compared three methods:
 1.  **Projected Gradient Descent (PGD)**
 2.  **Lagrangian Relaxation**
 3.  **Log-Barrier Optimization**
