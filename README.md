@@ -39,4 +39,3 @@ We implemented a **Constitutional WHIRL** framework that enforces monotonicity c
 ## References
 *   **Original Paper:** Jain, G., et al. (2024). *WHIRL: Whittle Index Reinforcement Learning*. NeurIPS.
 *   **Foundational Work:** Killian, T., et al. (2023). *Adherence Bandits*. AAAI.
-```
