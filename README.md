@@ -37,5 +37,5 @@ This project implements a **Constitutional WHIRL** framework that enforces monot
 *   `results/`: Generated plots and CSV logs from the experiments.
 
 ## References
-*   **Original Paper:** Jain, G., et al. (2024). *WHIRL: Whittle Index Reinforcement Learning*. NeurIPS.
+*   **Original Paper:** Jain, G., et al. (2024). *WHIRL: Whittle Index Reinforcement Learning*. PRICAI 2024.
 *   **Foundational Work:** Killian, T., et al. (2023). *Adherence Bandits*. AAAI.
